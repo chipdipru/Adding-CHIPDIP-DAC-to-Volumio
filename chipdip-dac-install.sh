@@ -4,9 +4,9 @@ echo "Installing ChipDip DACs..."
 
 cp /home/volumio/ChipDipDACs/chipdip-i2s-master-dac.dtbo /boot/overlays/chipdip-i2s-master-dac.dtbo
 
-cp /home/volumio/ChipDipDACs/./RasGPIOCtrl_v5 volumio/app/plugins/system_controller/i2s_dacs/scripts/./RasGPIOCtrl_v5
+cp /home/volumio/ChipDipDACs/./RasGPIOCtrl_v5 /volumio/app/plugins/system_controller/i2s_dacs/scripts/./RasGPIOCtrl_v5
 
-cp /home/volumio/ChipDipDACs/chipdip-dac-init.sh volumio/app/plugins/system_controller/i2s_dacs/scripts/chipdip-dac-init.sh
+cp /home/volumio/ChipDipDACs/chipdip-dac-init.sh /volumio/app/plugins/system_controller/i2s_dacs/scripts/chipdip-dac-init.sh
 
 sudo chmod +x volumio/app/plugins/system_controller/i2s_dacs/scripts/./RasGPIOCtrl_v5
 
