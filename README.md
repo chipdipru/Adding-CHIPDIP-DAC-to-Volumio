@@ -22,3 +22,6 @@ chmod +x /volumio/ChipDipDACs/chipdip-dac-install.sh
 reboot
 
 ![Сборка](https://user-images.githubusercontent.com/43340836/125622869-7ff1fa36-15bd-4c6b-8655-56ee6b6ef6dd.jpg)
+
+![ADAU_1701](https://user-images.githubusercontent.com/43340836/125623565-a3d94d59-61af-4888-8ede-cc1e1696684c.jpg)
+
