@@ -2,9 +2,11 @@
 Adding ChipDip DACs to Volumio
 
 1) Install git
+
 sudo apt install git
 
 2) Clone git repository
+
 git clone https://github.com/chipdipru/Adding-CHIPDIP-DAC-to-Volumio /volumio/ChipDipDACs
 
 3) Make script "chipdip-dac-install.sh" executable
