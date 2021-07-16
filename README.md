@@ -21,7 +21,9 @@ chmod +x /volumio/ChipDipDACs/chipdip-dac-install.sh
 
 reboot
 
-![Сборка](https://user-images.githubusercontent.com/43340836/125622869-7ff1fa36-15bd-4c6b-8655-56ee6b6ef6dd.jpg)
+<a class="link" href="https://www.chipdip.ru/product0/9000827685">RasPi DSP Machine 1, Master Beta1, CODEC - аудио процессор для Raspberry Pi, ADAU1701 x 1</a><br>
+<a class="link" href="https://www.chipdip.ru/product0/9000827686">RasPi DSP Machine 2, Master Beta1, DAC - аудио процессор для Raspberry Pi, PCM5242 x 1</a>
 
-![ADAU_1701](https://user-images.githubusercontent.com/43340836/125623565-a3d94d59-61af-4888-8ede-cc1e1696684c.jpg)
-
+![1701](https://user-images.githubusercontent.com/43340836/125964048-279913b2-b17c-4684-a1fb-0cf4d07f5cfc.jpg)
+![5242](https://user-images.githubusercontent.com/43340836/125964115-c326c7de-1641-4d3d-a3fd-31859e387e6e.jpg)
+![ADAU](https://user-images.githubusercontent.com/43340836/125964081-fbc0c9a1-5c1a-452a-89f5-4c425aa411c6.jpg)
