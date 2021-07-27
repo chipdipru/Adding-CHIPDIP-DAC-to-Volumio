@@ -2,23 +2,23 @@
 
 <strong><em>1) Install git</em></strong>
 
-sudo apt install git
+<pre><code>sudo apt install git</code></pre>
 
 <strong><em>2) Clone git repository</em></strong>
 
-git clone https://github.com/chipdipru/Adding-CHIPDIP-DAC-to-Volumio /volumio/ChipDipDACs
+<pre><code>git clone https://github.com/chipdipru/Adding-CHIPDIP-DAC-to-Volumio /volumio/ChipDipDACs</code></pre>
 
 <strong><em>3) Make script "chipdip-dac-install.sh" executable</em></strong>
 
-chmod +x /volumio/ChipDipDACs/chipdip-dac-install.sh
+<pre><code>chmod +x /volumio/ChipDipDACs/chipdip-dac-install.sh</code></pre>
 
 <strong><em>4) Start script to install ChipDip DACs</em></strong>
 
-/volumio/ChipDipDACs/chipdip-dac-install.sh
+<pre><code>/volumio/ChipDipDACs/chipdip-dac-install.sh</code></pre>
 
 <strong><em>5) Reboot system to complete installation</em></strong>
 
-reboot
+<pre><code>reboot</code></pre>
 
 <a class="link" href="https://www.chipdip.ru/product0/9000827685">RasPi DSP Machine 1, Master Beta1, CODEC - аудио процессор для Raspberry Pi, ADAU1701 x 1</a><br>
 <a class="link" href="https://www.chipdip.ru/product0/9000827686">RasPi DSP Machine 2, Master Beta1, DAC - аудио процессор для Raspberry Pi, PCM5242 x 1</a>
